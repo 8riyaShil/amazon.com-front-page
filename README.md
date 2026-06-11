@@ -27,18 +27,6 @@ A fully responsive **Amazon Homepage Clone** built using **HTML5** and **CSS3**.
 
 ---
 
-## 📸 Screenshots
-
-### Homepage
-
-Add your project screenshots here.
-
-```md
-![Homepage](screenshots/homepage.png)
-```
-
----
-
 ## 🛠️ Technologies Used
 
 * HTML5
@@ -55,12 +43,8 @@ Amazon-Clone/
 ├── index.html
 ├── style.css
 │
-├── images/
-│   ├── hero.jpg
-│   ├── products/
-│   ├── categories/
-│   └── logo/
-│
+├── images
+│ 
 └── README.md
 ```
 
@@ -71,7 +55,7 @@ Amazon-Clone/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/amazon-clone.git
+git clone https://github.com/8riyashil/amazon-clone.git
 ```
 
 ### Open the Project
